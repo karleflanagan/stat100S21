@@ -32,8 +32,9 @@ title: syllabus
 </ul>
 
 ## Course Webpage
-  * <b><a href="{{ site.data.info.course-link1 }}" target="\_blank">{{ site.data.info.course-link1 }}</a></b>
-    <br>You can also google "stat 100" :)
+* <b><a href="https://karleflanagan.github.io/stat100S21/" target="\_blank">https://karleflanagan.github.io/stat100S21/</a></b>
+  <!-- * <b><a href="{{ site.data.info.course-link1 }}" target="\_blank">{{ site.data.info.course-link1 }}</a></b>
+    <br>You can also google "stat 100" :) -->
 
 ## Course Materials
 * **Required Workbook: {{ site.data.info.textbook.name }} {{ site.data.info.textbook.edition }} by {{ site.data.info.textbook.authors}}.**

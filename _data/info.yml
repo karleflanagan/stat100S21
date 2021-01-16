@@ -10,7 +10,7 @@ announcements: >-
     <li>Welcome to Stat 100!</li>
     <ul>
       <li>We have only one section this semester: Stat 100 Online (ONL).</li>
-      <li>An email will be sent out on Monday, Jan. 18th for details about the first week of class :)</li>
+      <li>An email will be sent out on Monday, Jan. 18th for details about the first week of class <a href="{{ site.data.info.rickroll }}">&#128522;</a></li>
       <li>Feel free to browse this website to get familiar with the course!</li>
       <li>Looking forward to a great semester!!</li>
     </ul>
@@ -50,7 +50,7 @@ office-hours:
 # Course Materials
 textbook:
   name: "Stat 100 Incomplete Lecture Notes Workbook."
-  edition: "Fall 2020 or Spring 2021 editions (They are both green)"
+  edition: "Either the Fall 2020 or Spring 2021 editions (They are both green)"
   authors: "Ellen Fireman, Karle Flanagan, and John Marden"
   price: "$35"
 
@@ -61,6 +61,9 @@ hw-duedates: "every Tuesday and Thursday at 11:59pm"
 # base-name is important for retrieving exam pdfs.
 # exam 1 location is added in exams.md through exam_schedule.html, leave empty here but update in exam_schedule.html (located in "_includes" folder). Also for quick editing of exam_schedule.html table, use exam_schedule.tgn in the "tools" folder. Upload this .tgn file to https://www.tablesgenerator.com/ to edit easily. This same process can be used to edit the final schedule in final-schedule.html using final-schedule.tgn (these files are found in same places as exam_schedule files).
 # show-exams is a T/F variable that controls the viewability of the practise exam pdfs. i.e. if show-exams for exam 3 is not T, then all of the exam 3 practise exams (with exception of 2016 key) will be greyed out and won't link to the pdfs. show-finals is the same kind of variable but for practise finals pdfs.
+# T: Shows all exams in group.
+# F: Shows only the practice exam material of group.
+# FF: Hides all exams of group.
 exams:
 - name: "Exam 1"
   base-name: "Exam1"
