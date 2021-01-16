@@ -60,7 +60,7 @@ title: syllabus
 
 ## Homework Schedule
 * Homework is due {{ site.data.info.hw-duedates }} (see <b><a href="{{ site.baseurl }}/pages/calendar.html">calendar</a></b>) on <b><a href="http://www.lon-capa.illinois.edu/" target="\_blank">Lon-Capa</a></b>. You can ask questions on the Lon Capa discussion boards and stop by office hours any time to get homework help!
-* <b style="color:red;">We do NOT accept late hw, but we do drop your 4 lowest HW scores. This means you can miss 4 HW assignments without any penalty!</b>
+* <b style="color:red;">We do NOT accept late hw, but we do drop your 3 lowest HW scores. This means you can miss 3 HW assignments without any penalty!</b>
 
 ## Exam Schedule
 * There will be 3 evening exams and a cumulative final. See the <b><a href="{{ site.baseurl }}/pages/exam_schedule.html">Exam Schedule</a></b> for dates, times, and locations.
@@ -79,14 +79,16 @@ title: syllabus
 {% include grade.html %}
 
 ## Bonus Work
-**Bonus Points — You may earn between 0 and 50 Bonus Points.**
-* **Everyone may earn between 0 and 50 Bonus Points.** Every bonus point earned helps your overall grade, but even if you do no bonus work, you can still get 100% for the course. In other words, bonus points can only help you. Bonus points are extra credit. Here’s how you can get them:
-  1. **Pre-Lecture bonus points** (34.5 bonus points)<br>
-  Each class there will be a short pre-lecture video posted on Lon Capa followed by a few questions. The pre-lectures are designed to give you a preview of the basic concepts you’ll see in the actual lectures. There are 23 prelectures and each is worth 1.5 bonus points.
-  2. **Lon Capa Surveys** (15 bonus points)<br>
-  There will be 5 surveys due on the first Friday of each month (see the course calendar). Each survey is worth 3 bonus points. The surveys are all anonymous. Lon Capa just records whether or not you submitted a survey, not who submitted which answer. You must answer every question on the survey to get the 4 points.
-  3. <b>The Pre-Lecture and Survey bonus points add to 49.5!</b>  Everyone will get 0.5 bonus points automatically for free <a href="{{ site.data.info.rickroll }}">&#128521;</a>
-* <b>How do these bonus points get calculated into your grade?</b>  At the end of the semester, take your total bonus points and divide them by 10.  This will be how many percentage points get added to your grade!  For example, if you have all 50 bonus points, you’d take 50 and divide it by 10 to get 5.  So if you have an 80% (B-) in the class, the bonus would bring you up to an 85% (B).
+**Bonus Points — You may earn between 0 and 100 Bonus Points.**
+* **Everyone may earn between 0 and 100 Bonus Points.** EEvery bonus point earned helps your overall grade, but even if you do no bonus work, you can still get 100% for the course. In other words, bonus points can only help you. Bonus points are extra credit. Here’s how you can get them:
+  1. **Pre-Lecture bonus points** (46 bonus points)<br>
+  Each class there will be a short pre-lecture video posted on Lon Capa followed by a few questions. The pre-lectures are designed to give you a preview of the basic concepts you’ll see in the actual lectures.  There are 46 prelectures and each is worth 2.5 bonus points.
+  2. **Lon Capa Surveys** (25 bonus points)<br>
+  There will be 5 surveys due on the first Friday of each month (see the course calendar). Each survey is worth 5 bonus points. The surveys are all anonymous. Lon Capa just records whether or not you submitted a survey, not who submitted which answer. You must answer every question on the survey to get the 4 points.
+  3. **Research Opportunities** (28 bonus points)<br>
+  There will be a few research opportunities to participate in throughout the semester.  The details will be posted on our course Compass page!  These opportunities are completely optional, but give those who want to a chance to participate in a real study.
+  3. **The bonus points add to 99!**  Everyone will get 1 bonus point automatically for free. <a href="{{ site.data.info.rickroll }}">&#128521;</a>
+* **How do these bonus points get calculated into your grade?**  At the end of the semester, take your total bonus points and divide them by 20.  This will be how many percentage points get added to your grade!  For example, if you have all 100 bonus points, you’d take 100 and divide it by 20 to get 5.  So if you have an 80% (B-) in the class, the bonus would bring you up to an 85% (B).
 
 ## Course Outline
 * **Study Design**: observational studies vs. randomized experiments, why randomized controls are key, confounders in observational studies, Simpson's paradox, intent to treat analysis, etc.
@@ -108,8 +110,8 @@ We're using Compass 2g to post announcements and display grades.<br>
 (Lon Capa's gradebook is too confusing, so check your grades on Compass.)
 
 ## Academic Integrity
-* If you cheat on an exam in this class you're very likely to get caught and the consequences will be <b>SEVERE</b>. See the <b><a href="https://studentcode.illinois.edu/" target="\_blank">University Student Code of Conduct</a></b>.
-* We have multiple versions of all exams that may look identical at first glance, but are not. Bottom line is, please don’t cheat. It’s not worth risking your entire college career and you will get caught. If you are caught, you will get a 0 on the exam and be reported to the university.
+* If you cheat on an exam or attempt to cheat on an exam in this class you’re very likely to get caught and the consequences will be <b>SEVERE</b>. See the <b><a href="https://studentcode.illinois.edu/" target="\_blank">University Student Code of Conduct</a></b>.
+* You are not allowed to work with other people on exams and you are not allowed to use cheating websites like Chegg.  We have multiple versions of all exams that may look identical at first glance, but are not. Bottom line is, please don’t cheat. It’s not worth risking your entire college career and you will get caught. If you are caught, you will get a 0 on the exam and be reported to the university.
 
 ## DRES Accommodations
-* I am happy to offer accommodations for disabilities verified through DRES (<b><a href="http://www.disability.illinois.edu/" target="\_blank">http://www.disability.illinois.edu/</a></b>). Please email me a copy of your letter during week 1. Since all of our exams will be online, I will provide the extra time accommodation for any student who needs it and sends me their DRES letter.  If you have any other questions or need any other accommodations, don’t hesitate to reach out <a href="{{ site.data.info.rickroll }}">&#128522;</a>
+* I am happy to offer accommodations for disabilities verified through DRES (<b><a href="http://www.disability.illinois.edu/" target="\_blank">http://www.disability.illinois.edu/</a></b>). Please email me a copy of your letter during Week 1. Since all of our exams will be online, I will provide the extra time accommodation for any student who needs it and sends me their DRES letter.  If you have any other questions or need any other accommodations, don’t hesitate to reach out. <a href="{{ site.data.info.rickroll }}">&#128522;</a>

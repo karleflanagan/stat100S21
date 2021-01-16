@@ -44,3 +44,5 @@ The final cumulative for Chapters 1-24 <b>(ALL chapters in notebook)</b><br>
 </ul>
 
 {% include final-schedule.html %}
+
+<h4>For exams 1-3 there will be a conflict for international students at 11pm CST on the same day.  There will also be a main conflict from 4:30-6pm those days for any students who want to sign up!  Sign up for these conflict exams on Lon Capa.  If you are taking the regular exam at 6pm, no need to sign up!</h4>
