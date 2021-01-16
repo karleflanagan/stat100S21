@@ -1,0 +1,248 @@
+# Semester Information (Changes from semester to semester)
+# smiley face:
+
+# Weekly Announcements
+announcements: >-
+  <h2>Weekly Announcements</h2>
+  <div class="sub-heading-underline" style="margin:0 auto 5px auto; width: 24%;"></div>
+  <p style="text-align:left;">
+  <ul>
+    <li>Congrats on making it to the end of Stat 100!</li>
+    <ul>
+      <li>Our Stat 100 final is Monday Dec. 14th from 1:30-4:30pm on Compass 2g. It covers Chapters 1-24 in the notebook and practice finals are available <a href="https://karleflanagan.github.io/stat100F20/pages/practice_exams.html">here</a>- these are the best way to study!</li>
+      <li>We will have a live review on Twitch on Friday (12/11) evening from 5-7pm.  The video will be posted to Compass shortly after that.</li>
+      <li>Check out our <a href="https://karleflanagan.github.io/stat100F20/pages/grade_calc.html">grade calculator</a> to see what you need to get on the final to get your desired grade in the class.</li>
+      <li>All remaining HW and Bonus Work is due Reading Day (12/10) at 11:59pm on Lon Capa!</li>
+      <li>Remember, this semester, I am dropping your FOUR lowest HW Assignments! So you can miss 4 assignments without any penalty :)</li>
+      <li>If you have any questions, email Karle at <a href="mailto:stat100@illinois.edu">stat100@illinois.edu</a> or stop by <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">Zoom Office Hours</a> this week</li>
+      <li>We have office hours Mon, Tues, and Wed from 2-5pm and 8-10pm.  We also have office hours Thurs and Fri from 2-5pm.  No office hours during finals week (12/14-12/18).</li>
+    </ul>
+  </ul>
+  </p>
+
+
+# instructors and sections variables dictate content for the course sections info section of the home page, instructor contact information in syllabus, class times info in syllabus, bonus work info in syllabus, and instructor contact links in footer.
+# Note: the type attribute of the section variables must either be "In Person" or "Online" (These attribute values are case sensitive).
+
+main-email: "stat100@illinois.edu"
+
+instructors:
+- name: "Karle Flanagan"
+  email: "stat100@illinois.edu"
+
+sections:
+- name: "ONL"
+  type: "Online"
+  instructor: "Karle Flanagan"
+  times: "No assigned meeting times. Watch lecture videos on Compass."
+  location: "No in-person locations."
+
+# - name: ""
+#   type: "In Person"
+#   instructor: ""
+#   times: ""
+#   location: ""
+
+# Office hours
+office-hours:
+  location: "Zoom"
+  link: "https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09"
+  days: "Monday-Friday"
+  times: "2pm-5pm, and Mon-Tues from 8-10pm"
+
+# Course Materials
+textbook:
+  name: "Stat 100 Incomplete Lecture Notes Workbook."
+  edition: "Fall 2020 edition"
+  authors: "Ellen Fireman, Karle Flanagan, and John Marden"
+  price: "$35"
+
+# Homework
+hw-duedates: "every Tuesday and Thursday at 11:59pm"
+
+# Exam Information
+# base-name is important for retrieving exam pdfs.
+# exam 1 location is added in exams.md through exam_schedule.html, leave empty here but update in exam_schedule.html (located in "_includes" folder). Also for quick editing of exam_schedule.html table, use exam_schedule.tgn in the "tools" folder. Upload this .tgn file to https://www.tablesgenerator.com/ to edit easily. This same process can be used to edit the final schedule in final-schedule.html using final-schedule.tgn (these files are found in same places as exam_schedule files).
+# show-exams is a T/F variable that controls the viewability of the practise exam pdfs. i.e. if show-exams for exam 3 is not T, then all of the exam 3 practise exams (with exception of 2016 key) will be greyed out and won't link to the pdfs. show-finals is the same kind of variable but for practise finals pdfs.
+exams:
+- name: "Exam 1"
+  base-name: "Exam1"
+  keys: ""
+  date: "Wednesday, Sept. 16th, 2020"
+  time: "6-7:30pm"
+  content: "Chapter 1-Chapter 6 Part 1"
+  locations: ""
+  show-exams: T
+  # exam-years:
+  first: "F19" # Most recent semester
+  full1: "Fall 2019"
+  second: "S19"
+  full2: "Spring 2019"
+  third: "F18"
+  full3: "Fall 2018"
+  fourth: "S20" # notebook exam
+  full4: "Spring 2020"
+  conflict: >-
+    <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br><ul><li>Location for <b>All IN PERSON</b> Students (Sections L1 & L2):
+    <a href="http://ada.fs.illinois.edu/0034.html" target="_blank">100 Material Science and Engineering Building</a><br></li>
+    <li>Location for <b>ALL ONLINE</b> Students (Section KF): <a href="http://ada.fs.illinois.edu/0043.html" target="_blank">100 Gregory Hall</a><br></li></ul></span>
+
+- name: "Exam 2"
+  base-name: "Exam2"
+  keys: ""
+  date: "Wednesday, Oct. 14th, 2020"
+  time: "6-7:30pm"
+  content: "Chapter 6-Chapter 12"
+  locations: ""
+  show-exams: T
+  # exam-years:
+  first: "F19" # Most recent semester
+  full1: "Fall 2019"
+  second: "S19"
+  full2: "Spring 2019"
+  third: "F18"
+  full3: "Fall 2018"
+  fourth: "S20" # notebook exam
+  full4: "Spring 2020"
+  conflict: >-
+    <span style = "font-weight:normal"><i>same day from 4:30-6:00pm</i><br><ul><li>Location for <b>All IN PERSON</b> Students (Sections L1 & L2):
+    <a href="http://ada.fs.illinois.edu/0034.html" target="_blank">100 Material Science and Engineering Building</a><br></li>
+    <li>Location for <b>ALL ONLINE</b> Students (Section KF): <a href="http://ada.fs.illinois.edu/0043.html" target="_blank">100 Gregory Hall</a><br></li></ul></span>
+
+- name: "Exam 3"
+  base-name: "Exam3"
+  keys: ""
+  date: "Wednesday, Nov. 11th, 2020"
+  time: "6-7:30pm"
+  content: "Chapters 13-19"
+  locations: ""
+  show-exams: T
+  # exam-years:
+  first: "S19" # Most recent semester
+  full1: "Spring 2019"
+  second: "F18"
+  full2: "Fall 2018"
+  third: "S18"
+  full3: "Spring 2018"
+  fourth: "F19" # notebook exam
+  full4: "Fall 2019"
+  conflict: "<i>same day from 4:30-6:00pm</i><br>Location for All Last Names and Sections: TBA<br>"
+
+show-finals: T
+
+# # This is for code that builds the practice exams tables.
+# exam-years:
+#   first: "F19" # Most recent semester
+#   full1: "Fall 2019"
+#   second: "S19"
+#   full2: "Spring 2019"
+#   third: "F18"
+#   full3: "Fall 2018"
+#   fourth: "S20" # notebook exam
+#   full4: "Spring 2020"
+
+final-years:
+  first: "S14" # Most recent semester
+  second: "S12"
+
+uiucfinals: "https://registrar.illinois.edu/spring-2020-non-combined-scheduling-guidelines/"
+final-deadline: "December 9th (the last day of class) at 11:59pm!"
+
+grade-calc: T
+
+
+
+
+
+
+# General Course Information (Doesn't change very often)
+# Course links
+links1:
+- title: "Lon-Capa"
+  subtitle: "Homework & Bonus work"
+  url: "http://www.lon-capa.illinois.edu/"
+
+- title: "Compass2g"
+  subtitle: "Lecture Videos & Grades"
+  url: "https://compass2g.illinois.edu/"
+
+- title: "Zoom"
+  subtitle: "Office Hours"
+  url: "https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09"
+
+- title: "Piazza"
+  subtitle: "Discussion Board"
+  url: "https://www.piazza.com/illinois/fall2020/stat100onl/home"
+
+# Data program links
+links2:
+- title: "Data Analysis Program"
+  url: "http://dataprogram.stat.illinois.edu/"
+  icon: "fas fa-chart-bar fa-2x"
+
+- title: "Simulations"
+  url: "http://istics.net/fireman/sampling.html"
+  icon: "fas fa-calculator fa-2x"
+
+- title: "Guessing Correlations"
+  url: "http://www.istics.net/Correlations/"
+  icon: "fas fa-brain fa-2x"
+
+goals:
+- title: "Why everyone needs to know Basic Statistics"
+  body: "Statistics is a tool to make sense of large amounts of information. Common sense can only handle limited amounts of information. Until recently common sense was sufficient for most people because daily life didn't involve processing a large amount of data. Now large stores of information have become readily available. You can either choose to ignore the information available or you can choose to make sense of it, which means learning statistics."
+
+- title: "What's special about Stat 100"
+  body: "Most people think statistics is boring and difficult. Statistics is to data, what grammar is to words. And like grammar, it's only interesting if it's used to understand something interesting.<br><br>
+  In Stat 100, we use statistics to research a topic we're all interested in - ourselves. We collect data on ourselves through anonymous surveys, largely on the sort of social questions on which students have shown intense interest. Having real questions that we want to answer motivates real understanding, not just memorizing some complicated rules. Statistics is a collection of real tools- the key is to understand which one to use when and why."
+
+# Student experiences
+experiences:
+- text: "Read the newspaper in a new way, without their eyes glazing over when they see quantitative information."
+- text: "Know what questions to ask in evaluating studies and surveys."
+- text: "Understand what questions can and cannot be answered by statistical arguments."
+- text: "Appreciate how much of what matters to them can be better understood with statistics."
+- text: "Feel much more confident applying both logical reasoning and common sense to quantitative topics but are very aware that their intuition can sometimes be so wrong that it's shocking."
+- text: "But what's most surprising is they actually like statistics!"
+
+# Visit us
+visit:
+- name: "University of Illinois at Urbana-Champaign"
+  url: "https://illinois.edu"
+
+- name: "Department of Statistics"
+  url: "https://stat.illinois.edu"
+
+- name: '<i class="fab fa-youtube" style="height:17px;"></i> Stat 100 Youtube'
+  url: "https://www.youtube.com/channel/UCJfmPc8InilkUnR_hwVniKA"
+
+# Course webpages
+course-link1: "https://go.illinois.edu/stat100"
+
+calculator: "https://www.amazon.com/Texas-Instruments-Scientific-Calculator-Accents/dp/B00000JBNX"
+
+technical:
+  name: "Dr. Yuk Tung Liu"
+  email: "ytliu@illinois.edu"
+
+in-person-icon: "fas fa-chalkboard-teacher fa-4x"
+online-icon: "fas fa-desktop fa-4x"
+
+rickroll: "https://www.youtube.com/watch?v=oHg5SJYRHA0"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Additional comments...
