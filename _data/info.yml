@@ -43,7 +43,7 @@ sections:
 # Office hours
 office-hours:
   location: "Zoom"
-  link: "https://www.youtube.com/watch?v=oHg5SJYRHA0"
+  link: "https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09"
   days: "Monday-Friday"
   times: "2pm-5pm"
 
@@ -168,11 +168,11 @@ links1:
 
 - title: "Zoom"
   subtitle: "Office Hours"
-  url: "https://www.youtube.com/watch?v=oHg5SJYRHA0"
+  url: "https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09"
 
 - title: "Piazza"
   subtitle: "Discussion Board"
-  url: "https://www.youtube.com/watch?v=oHg5SJYRHA0"
+  url: "https://piazza.com/illinois/spring2021/stat100onl"
 
 # Data program links
 links2:

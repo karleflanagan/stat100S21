@@ -81,11 +81,11 @@ title: syllabus
 
 ## Bonus Work
 **Bonus Points — You may earn between 0 and 100 Bonus Points.**
-* **Everyone may earn between 0 and 100 Bonus Points.** EEvery bonus point earned helps your overall grade, but even if you do no bonus work, you can still get 100% for the course. In other words, bonus points can only help you. Bonus points are extra credit. Here’s how you can get them:
+* **Everyone may earn between 0 and 100 Bonus Points.** Every bonus point earned helps your overall grade, but even if you do no bonus work, you can still get 100% for the course. In other words, bonus points can only help you. Bonus points are extra credit. Here’s how you can get them:
   1. **Pre-Lecture bonus points** (46 bonus points)<br>
-  Each class there will be a short pre-lecture video posted on Lon Capa followed by a few questions. The pre-lectures are designed to give you a preview of the basic concepts you’ll see in the actual lectures.  There are 46 prelectures and each is worth 2.5 bonus points.
+  Each class there will be a short pre-lecture video posted on Lon Capa followed by a few questions. The pre-lectures are designed to give you a preview of the basic concepts you’ll see in the actual lectures.  There are 23 prelectures and each is worth 2 bonus points.
   2. **Lon Capa Surveys** (25 bonus points)<br>
-  There will be 5 surveys due on the first Friday of each month (see the course calendar). Each survey is worth 5 bonus points. The surveys are all anonymous. Lon Capa just records whether or not you submitted a survey, not who submitted which answer. You must answer every question on the survey to get the 4 points.
+  There will be 5 surveys due on the first Friday of each month (see the course calendar). Each survey is worth 5 bonus points. The surveys are all anonymous. Lon Capa just records whether or not you submitted a survey, not who submitted which answer. You must answer every question on the survey to get the 5 points.
   3. **Research Opportunities** (28 bonus points)<br>
   There will be a few research opportunities to participate in throughout the semester.  The details will be posted on our course Compass page!  These opportunities are completely optional, but give those who want to a chance to participate in a real study.
   3. **The bonus points add to 99!**  Everyone will get 1 bonus point automatically for free. <a href="{{ site.data.info.rickroll }}">&#128521;</a>
@@ -107,7 +107,7 @@ All homework and bonus work is submitted and graded immediately on Lon Capa.
 
 ## Compass Site
 * <b><a href="https://compass2g.illinois.edu" target="\_blank">https://compass2g.illinois.edu</a></b><br>
-We're using Compass 2g to post announcements and display grades.<br>
+We're using Compass 2g to post announcements, lecture videos, and display grades. Exams will also be taken on Compass.<br>
 (Lon Capa's gradebook is too confusing, so check your grades on Compass.)
 
 ## Academic Integrity
