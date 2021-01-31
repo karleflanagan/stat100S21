@@ -7,12 +7,11 @@ announcements: >-
   <div class="sub-heading-underline" style="margin:0 auto 5px auto; width: 24%;"></div>
   <p style="text-align:left;">
   <ul>
-    <li>Welcome to Stat 100!</li>
+    <li>Welcome to Week 2!</li>
     <ul>
-      <li>We have only one section this semester: Stat 100 Online (ONL).</li>
-      <li>An email will be sent out on Monday, Jan. 18th for details about the first week of class <a href="{{ site.data.info.rickroll }}">&#128522;</a></li>
-      <li>Feel free to browse this website to get familiar with the course!</li>
-      <li>Looking forward to a great semester!!</li>
+      <li>Remember to get your Stat 100 notebook ASAP! If you are outside the US, email Karle at <a href="mailto:stat100@illinois.edu">stat100@illinois.edu</a> for more info about purchasing an eBook!</li>
+      <li>Office hours start Monday Feb. 1st! They are Monday-Friday from 2-5pm and Tuesdays from 8-10pm via <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">zoom</a>.  Stop by and say hello <a href="{{ site.data.info.rickroll }}">&#128522;</a></li>
+      <li>Remember to check <a href="https://compass2g.illinois.edu/" target="_blank">Compass</a> for grades, not Lon Capa!</li>
     </ul>
   </ul>
   </p>
@@ -146,11 +145,11 @@ final-years:
   second: "S12"
 
 uiucfinals: "https://registrar.illinois.edu/spring-2020-non-combined-scheduling-guidelines/"
-final-deadline: "December 9th (the last day of class) at 11:59pm!"
+final-deadline: "May 5th (the last day of class) at 11:59pm!"
 
 grade-calc: T
 
-
+pr-exam-link: "https://karleflanagan.github.io/stat100S21/pages/practice_exams.html"
 
 
 
@@ -163,7 +162,7 @@ links1:
   url: "http://www.lon-capa.illinois.edu/"
 
 - title: "Compass2g"
-  subtitle: "Lecture Videos & Grades"
+  subtitle: "Lecture Videos, Exams, & Grades"
   url: "https://compass2g.illinois.edu/"
 
 - title: "Zoom"

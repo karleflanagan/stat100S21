@@ -32,6 +32,19 @@ title: FAQs
   </div>
 </div>
 
+<p>
+  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#faq2" aria-expanded="false" aria-controls="faq2">
+    Q: Can I do a James Scholar Project for Stat 100?
+  </button>
+</p>
+<div class="collapse" id="faq2">
+  <div class="card card-body">
+    <p>A: <i> Unfortunately, we don't have a James Scholar project this semester!  Sorry about this!
+</i></p>
+  </div>
+</div>
+
+
 ## Homework FAQs
 <p>
   <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#faq3" aria-expanded="false" aria-controls="faq3">
@@ -116,7 +129,7 @@ title: FAQs
 </p>
 <div class="collapse" id="faq9">
   <div class="card card-body">
-    <p>A: <i> Do the <a href="{{ site.data.info.exam-link }}" target="blank">practice exams</a> as REAL exams without
+    <p>A: <i> Do the <a href="{{ site.data.info.pr-exam-link }}" target="blank">practice exams</a> as REAL exams without
             peeking at your notes or the key. The key is to take the practice exams under real conditions, then
             grade yourself, identify weak areas, and study what you got wrong. Keep doing practice exams until
             you are consistently getting the grade you want on the real exam. Come to office hours to get help!</i></p>
