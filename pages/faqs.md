@@ -33,11 +33,11 @@ title: FAQs
 </div>
 
 <p>
-  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#faq2" aria-expanded="false" aria-controls="faq2">
+  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#faqR3" aria-expanded="false" aria-controls="faqR3">
     Q: Can I do a James Scholar Project for Stat 100?
   </button>
 </p>
-<div class="collapse" id="faq2">
+<div class="collapse" id="faqR3">
   <div class="card card-body">
     <p>A: <i> Unfortunately, we don't have a James Scholar project this semester!  Sorry about this!
 </i></p>
