@@ -7,11 +7,12 @@ announcements: >-
   <div class="sub-heading-underline" style="margin:0 auto 5px auto; width: 24%;"></div>
   <p style="text-align:left;">
   <ul>
-    <li>Welcome to Week 2!</li>
+    <li>Welcome to Week 3</li>
     <ul>
-      <li>Remember to get your Stat 100 notebook ASAP! If you are outside the US, email Karle at <a href="mailto:stat100@illinois.edu">stat100@illinois.edu</a> for more info about purchasing an eBook!</li>
-      <li>Office hours start Monday Feb. 1st! They are Monday-Friday from 2-5pm and Tuesdays from 8-10pm via <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">zoom</a>.  Stop by and say hello <a href="{{ site.data.info.rickroll }}">&#128522;</a></li>
+      <li>Remember to get your Stat 100 notebook if you haven't already! If you are outside the US, email Karle at <a href="mailto:stat100@illinois.edu">stat100@illinois.edu</a> for more info about purchasing an eBook!</li>
+      <li>Office hours are this week Monday-Friday from 2-5pm and Tuesdays from 8-10pm via <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">zoom</a>. Stop by and say hello <a href="{{ site.data.info.rickroll }}">&#128522;</a></li>
       <li>Remember to check <a href="https://compass2g.illinois.edu/" target="_blank">Compass</a> for grades, not Lon Capa!</li>
+      <li>Also, remember that we drop your 3 lowest HW grades at the end of the semester so you can miss 3 full HW assignments without any penalty!</li>
     </ul>
   </ul>
   </p>
