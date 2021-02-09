@@ -72,7 +72,7 @@ exams:
   time: "6-7:30pm"
   content: "Chapter 1-Chapter 6 Part 1"
   locations: ""
-  show-exams: F
+  show-exams: T
   # exam-years:
   first: "F19" # Most recent semester
   full1: "Fall 2019"
