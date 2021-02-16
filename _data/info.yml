@@ -7,11 +7,13 @@ announcements: >-
   <div class="sub-heading-underline" style="margin:0 auto 5px auto; width: 24%;"></div>
   <p style="text-align:left;">
   <ul>
-    <li>Welcome to Week 3</li>
+    <li>Welcome to Week 4 (exam week!)</li>
     <ul>
-      <li>Remember to get your Stat 100 notebook if you haven't already! If you are outside the US, email Karle at <a href="mailto:stat100@illinois.edu">stat100@illinois.edu</a> for more info about purchasing an eBook!</li>
-      <li>Office hours are this week Monday-Friday from 2-5pm and Tuesdays from 8-10pm via <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">zoom</a>. Stop by and say hello <a href="{{ site.data.info.rickroll }}">&#128522;</a></li>
-      <li>Remember to check <a href="https://compass2g.illinois.edu/" target="_blank">Compass</a> for grades, not Lon Capa!</li>
+      <li>Our exam is this Thursday (2/18) from 6-7:30pm on <a href="http://compass2g.illinois.edu/" target="_blank">Compass</a>!</li>
+      <li>Karle will have a "live" review on <a href="https://urldefense.com/v3/__http://twitch.tv/karleflanagan__;!!DZ3fjg!ruw7RBjfvpOm7sfqP7cie5u89i7apkMaR9PRhHI2QpZdDp-OiqEznCKKr5878_qgVNs$" target="_blank">Twitch</a> on Tuesday at 6pm! This will be posted on Compass Wednesday morning for those who can't make it!</li>
+      <li>See the emails posted in Course Announcements on Compass for details!</li>
+      <li>Office hours are this week Monday-Wednesday from 2-5pm and Tuesday from 8-10pm via <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">zoom</a>. Stop by if you have any questions <a href="{{ site.data.info.rickroll }}">&#128522;</a></li>
+      <li>Remember to check <a href="https://compass2g.illinois.edu/" target="_blank">Compass</a> for grades, not Lon Capa! Exam grades will be posted by next Monday!</li>
       <li>Also, remember that we drop your 3 lowest HW grades at the end of the semester so you can miss 3 full HW assignments without any penalty!</li>
     </ul>
   </ul>
