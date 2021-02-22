@@ -12,13 +12,14 @@ announcements: >-
       <li>Our exam is this Thursday (2/18) from 6-7:30pm on <a href="http://compass2g.illinois.edu/" target="_blank">Compass</a>!</li>
       <li>Karle will have a "live" review on <a href="https://urldefense.com/v3/__http://twitch.tv/karleflanagan__;!!DZ3fjg!ruw7RBjfvpOm7sfqP7cie5u89i7apkMaR9PRhHI2QpZdDp-OiqEznCKKr5878_qgVNs$" target="_blank">Twitch</a> on Tuesday at 6pm! This will be posted on Compass Wednesday morning for those who can't make it!</li>
       <li>See the emails posted in Course Announcements on Compass for details!</li>
-      <li>Office hours are this week Monday-Wednesday from 2-5pm and Tuesday from 8-10pm via <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">zoom</a>. Stop by if you have any questions <a href="{{ site.data.info.rickroll }}">&#128522;</a></li>
+      <li>Office hours are this week Monday-Wednesday from 2-5pm and Tuesday from 8-10pm via <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">zoom</a>. Stop by if you have any questions <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">&#128522;</a></li>
       <li>Remember to check <a href="https://compass2g.illinois.edu/" target="_blank">Compass</a> for grades, not Lon Capa! Exam grades will be posted by next Monday!</li>
       <li>Also, remember that we drop your 3 lowest HW grades at the end of the semester so you can miss 3 full HW assignments without any penalty!</li>
     </ul>
   </ul>
   </p>
 
+# rickroll: https://www.youtube.com/watch?v=wpV-gGA4PSk
 
 # instructors and sections variables dictate content for the course sections info section of the home page, instructor contact information in syllabus, class times info in syllabus, bonus work info in syllabus, and instructor contact links in footer.
 # Note: the type attribute of the section variables must either be "In Person" or "Online" (These attribute values are case sensitive).
@@ -230,7 +231,7 @@ technical:
 in-person-icon: "fas fa-chalkboard-teacher fa-4x"
 online-icon: "fas fa-desktop fa-4x"
 
-rickroll: "https://www.youtube.com/watch?v=oHg5SJYRHA0"
+rickroll: "https://www.youtube.com/watch?v=wpV-gGA4PSk"
 
 
 
