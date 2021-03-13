@@ -50,7 +50,7 @@ staff:
   role: "Course Assistant"
   email: ""
   bio: >-
-    My name is Jonas and I'm a senior studying statistics and computer science. I'm the Beyonce of the STAT 100 TAs. I completed my associates in 2018 with a major in computer science. In addition to working as a TA and Web Developer for STAT 100 I also work with the STAT 432 Team. I was born and raised in Champaign, but I also lived in San Diego for awhile! I enjoy reading, gaming, playing piano, hiking, and talking with friends.
+    My name is <a href="https://wjonasreger.github.io/website/" target="_blank">Jonas</a> and I'm a senior studying statistics and mathematics. I'm the <a href="{{ site.data.info.rickroll }}">Beyoncé</a> of the STAT 100 TAs!:) I completed my A.S. Computer Science degree in 2018 and soon will complete my B.S. Statistics degree this semester. I will be starting my M.S. Statistics-Analytics degree in the Fall!:) In addition to working as a TA for STAT 100, I also manage and develop the STAT 100 course website. I was born and raised in Champaign, but I also lived in San Diego for awhile! I enjoy reading, gaming, playing piano, hiking, and talking with friends.
 
 - name: "Miah Phillips"
   netid: "miahep2"
