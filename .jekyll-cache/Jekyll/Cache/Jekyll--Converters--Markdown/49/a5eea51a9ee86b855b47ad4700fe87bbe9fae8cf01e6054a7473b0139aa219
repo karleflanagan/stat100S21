@@ -1,4 +1,4 @@
-I"¸)<h1 id="frequently-asked-questions">Frequently Asked Questions</h1>
+I"q+<h1 id="frequently-asked-questions">Frequently Asked Questions</h1>
 
 <h2 id="registration-faqs">Registration FAQs</h2>
 <p>
@@ -20,6 +20,18 @@
 <div class="collapse" id="faq2">
   <div class="card card-body">
     <p>A: <i> Email Karle at <a href="mailto:stat100@illinois.edu">stat100@illinois.edu</a> and we will get you caught up. Be sure to include your name and netID.
+</i></p>
+  </div>
+</div>
+
+<p>
+  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#faqR3" aria-expanded="false" aria-controls="faqR3">
+    Q: Can I do a James Scholar Project for Stat 100?
+  </button>
+</p>
+<div class="collapse" id="faqR3">
+  <div class="card card-body">
+    <p>A: <i> Unfortunately, we don't have a James Scholar project this semester!  Sorry about this!
 </i></p>
   </div>
 </div>
@@ -108,7 +120,7 @@
 </p>
 <div class="collapse" id="faq9">
   <div class="card card-body">
-    <p>A: <i> Do the <a href="" target="blank">practice exams</a> as REAL exams without
+    <p>A: <i> Do the <a href="https://karleflanagan.github.io/stat100S21/pages/practice_exams.html" target="blank">practice exams</a> as REAL exams without
             peeking at your notes or the key. The key is to take the practice exams under real conditions, then
             grade yourself, identify weak areas, and study what you got wrong. Keep doing practice exams until
             you are consistently getting the grade you want on the real exam. Come to office hours to get help!</i></p>
@@ -146,7 +158,7 @@
 </p>
 <div class="collapse" id="faq13">
   <div class="card card-body">
-    <p>A: <i>  As per University Policy, only those who have 3 finals within 24 hours or are observing a religious holiday are allowed to request to take a conflict exam. If this applies to you, please send an email to Karle with a screenshot of your schedule and say which finals you have that are within 24 hours of each other. <b style="color:red;">The deadline to request a conflict is December 9th (the last day of class) at 11:59pm!</b></i></p>
+    <p>A: <i>  As per University Policy, only those who have 3 finals within 24 hours or are observing a religious holiday are allowed to request to take a conflict exam. If this applies to you, please send an email to Karle with a screenshot of your schedule and say which finals you have that are within 24 hours of each other. <b style="color:red;">The deadline to request a conflict is May 5th (the last day of class) at 11:59pm!</b></i></p>
   </div>
 </div>
 
@@ -166,7 +178,7 @@
 <h2 id="office-hour-faqs">Office Hour FAQs</h2>
 <p>
   <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#faq17" aria-expanded="false" aria-controls="faq17">
-    Q:  I am unable to attend any of the office hours from 2pm-5pm, and Mon-Tues from 8-10pm. How can I get help or talk to my instructor?
+    Q:  I am unable to attend any of the office hours from 2pm-5pm. How can I get help or talk to my instructor?
   </button>
 </p>
 <div class="collapse" id="faq17">

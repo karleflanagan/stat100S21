@@ -4,7 +4,8 @@
 
 layout: default
 ---
-{% include landing_small.html title='About Us' %}
+{% include landing.html image='/assets/img/staff-photos/stat100_impact_final1.png'%}
+<!-- {% include landing_small.html title='About Us' %} -->
 
 <div id="about" class="offset" style="margin-top: 5px;">
   <div class="bg-light py-4">

@@ -1,4 +1,4 @@
-I"›$<!-- landing photo page -->
+I"Š$<!-- landing photo page -->
 <!-- Start of Landing Page -->
 <div class="landing">
   <div class="home-wrap">
@@ -11,17 +11,17 @@
 <div class="caption text-center">
   <h1>Statistics 100</h1>
   <div class="landing-heading-underline"></div>
-  <h3>Fall 2020</h3>
-  <a class="btn btn-outline-light btn-lg" href="#sections">Get Started</a>
+  <h3>Spring 2021</h3>
+  <!-- <a class="btn btn-outline-light btn-lg" href="#sections">Get Started</a> -->
   <div class="announcements narrow">
     <div class="card bg-white rounded shadow-sm py-3">
-      <h2>Weekly Announcements</h2> <div class="sub-heading-underline" style="margin:0 auto 10px auto; width: 24%;"></div> <p style="text-align:left;"> <ul>
-  <li>Welcome to Week 10 of Stat 100!</li>
+      <h2>Weekly Announcements</h2> <div class="sub-heading-underline" style="margin:0 auto 5px auto; width: 24%;"></div> <p style="text-align:left;"> <ul>
+  <li>Hello Everyone!</li>
   <ul>
-    <li>This semester, I am dropping your FOUR lowest HW Assignments!  So you can miss 4 assignments without any penalty :)</li>
-    <li>Exam 2 grades and current grades are updated in Compass!</li>
-    <li>If you have any questions, email Karle at <a href="mailto:stat100@illinois.edu">stat100@illinois.edu</a> or stop by <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">Zoom Office Hours</a> this week</li>
-    <li>We also have a <a href="https://www.piazza.com/illinois/fall2020/stat100onl/home" target="_blank">Piazza course page</a>! Feel free to ask questions there if you canâ€™t make it to office hours.</li>
+    <li>Make sure to check your grades on <a href="http://compass2g.illinois.edu/" target="_blank">Compass</a>! Exam grades and current grades are posted there.</li>
+    <li>Office hours are this week Monday-Friday from 2-5pm and Tuesday from 8-10pm via <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">zoom</a>. Stop by if you have any questions <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">&#128522;</a></li>
+    <li>Also, remember that we drop your 3 lowest HW grades at the end of the semester so you can miss 3 full HW assignments without any penalty!</li>
+    <li>Have a great week!</li>
   </ul>
 </ul> </p>
     </div>
@@ -34,7 +34,7 @@
   <div class="jumbotron" style="background-color: white;">
     <!-- title -->
     <div class="col-12 narrow text-center">
-      <h1 style="padding-bottom: 20px; text-transform: uppercase;">Statistics 100 Fall 2020 Sections</h1>
+      <h1 style="padding-bottom: 20px; text-transform: uppercase;">Statistics 100 Spring 2021 Sections</h1>
       <div class="heading-underline"></div>
     </div>
     <div class="row text-center">
@@ -48,7 +48,7 @@
       </div> -->
       <div class="col-md-12">
         <div class="feature">
-          <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0"><i class="fas fa-desktop fa-4x" data-fa-transform="shrinks-5 up-4"></i></a>
+          <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk"><i class="fas fa-desktop fa-4x" data-fa-transform="shrinks-5 up-4"></i></a>
           <h3>Online Section: ONL</h3>
           <p>
           <b>ONL Instructor: Karle Flanagan</b><br />
@@ -79,7 +79,7 @@
       
         <div class="col-md-3">
           <h3>Compass2g</h3>
-          <a class="btn btn-secondary btn-md" href="https://compass2g.illinois.edu/" target="\_blank">Lecture Videos &amp; Grades</a>
+          <a class="btn btn-secondary btn-md" href="https://compass2g.illinois.edu/" target="\_blank">Lecture Videos, Exams, &amp; Grades</a>
         </div>
       
         <div class="col-md-3">
@@ -89,7 +89,7 @@
       
         <div class="col-md-3">
           <h3>Piazza</h3>
-          <a class="btn btn-secondary btn-md" href="https://www.piazza.com/illinois/fall2020/stat100onl/home" target="\_blank">Discussion Board</a>
+          <a class="btn btn-secondary btn-md" href="https://piazza.com/illinois/spring2021/stat100onl" target="\_blank">Discussion Board</a>
         </div>
       
     </div>

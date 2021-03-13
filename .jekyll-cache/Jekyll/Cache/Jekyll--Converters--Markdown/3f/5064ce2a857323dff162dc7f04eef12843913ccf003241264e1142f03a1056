@@ -1,4 +1,4 @@
-I"�&<h1 id="stat-100-syllabus-fall-2020-view-pdf">STAT 100 Syllabus Fall 2020 <a href="//assets/docs/F20_Stat100_Syllabus.pdf" target="\_blank">(View PDF)</a></h1>
+I"<)<h1 id="stat-100-syllabus-spring-2021-view-pdf">STAT 100 Syllabus Spring 2021 <a href="//assets/docs/S21_Stat100_Syllabus.pdf" target="\_blank">(View PDF)</a></h1>
 
 <h2 id="instructor-contact-information">Instructor Contact Information</h2>
 <ul>
@@ -22,13 +22,14 @@
 
 <h2 id="course-webpage">Course Webpage</h2>
 <ul>
-  <li><b><a href="https://go.illinois.edu/stat100" target="\_blank">https://go.illinois.edu/stat100</a></b>
-<br />You can also google “stat 100” :)</li>
+  <li><b><a href="https://karleflanagan.github.io/stat100S21/" target="\_blank">https://karleflanagan.github.io/stat100S21/</a></b>
+<!-- * <b><a href="https://go.illinois.edu/stat100" target="\_blank">https://go.illinois.edu/stat100</a></b>
+  <br>You can also google "stat 100" :) --></li>
 </ul>
 
 <h2 id="course-materials">Course Materials</h2>
 <ul>
-  <li><strong>Required Workbook: Stat 100 Incomplete Lecture Notes Workbook. Fall 2020 edition by Ellen Fireman, Karle Flanagan, and John Marden.</strong>
+  <li><strong>Required Workbook: Stat 100 Incomplete Lecture Notes Workbook. Either the Fall 2020 or Spring 2021 editions (They are both green) by Ellen Fireman, Karle Flanagan, and John Marden.</strong>
     <ol>
       <li>Available at the Illini Union Bookstore for $35.</li>
       <li>This notebook is the only thing that’s required to purchase for Stat 100!</li>
@@ -49,7 +50,7 @@
 
 <h2 id="office-hours">Office Hours</h2>
 <ul>
-  <li><b>STAT 100 Office Hours will be offered each week Monday-Friday from 2pm-5pm, and Mon-Tues from 8-10pm via <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="\_blank">Zoom</a>.</b></li>
+  <li><b>STAT 100 Office Hours will be offered each week Monday-Friday from 2pm-5pm via <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="\_blank">Zoom</a>.</b></li>
   <li>Feel free to stop by anytime for help. If you are unavailable during these times and want to meet, send us an email at <a href="mailto:stat100@illinois.edu">stat100@illinois.edu</a> and we will set up a time!</li>
 </ul>
 
@@ -61,7 +62,7 @@
 <h2 id="homework-schedule">Homework Schedule</h2>
 <ul>
   <li>Homework is due every Tuesday and Thursday at 11:59pm (see <b><a href="//pages/calendar.html">calendar</a></b>) on <b><a href="http://www.lon-capa.illinois.edu/" target="\_blank">Lon-Capa</a></b>. You can ask questions on the Lon Capa discussion boards and stop by office hours any time to get homework help!</li>
-  <li><b style="color:red;">We do NOT accept late hw, but we do drop your 4 lowest HW scores. This means you can miss 4 HW assignments without any penalty!</b></li>
+  <li><b style="color:red;">We do NOT accept late hw, but we do drop your 3 lowest HW scores. This means you can miss 3 HW assignments without any penalty!</b></li>
 </ul>
 
 <h2 id="exam-schedule">Exam Schedule</h2>
@@ -145,18 +146,20 @@ th, td {font-size:85%;width=16.66%;}
 </div>
 
 <h2 id="bonus-work">Bonus Work</h2>
-<p><strong>Bonus Points — You may earn between 0 and 50 Bonus Points.</strong></p>
+<p><strong>Bonus Points — You may earn between 0 and 100 Bonus Points.</strong></p>
 <ul>
-  <li><strong>Everyone may earn between 0 and 50 Bonus Points.</strong> Every bonus point earned helps your overall grade, but even if you do no bonus work, you can still get 100% for the course. In other words, bonus points can only help you. Bonus points are extra credit. Here’s how you can get them:
+  <li><strong>Everyone may earn between 0 and 100 Bonus Points.</strong> Every bonus point earned helps your overall grade, but even if you do no bonus work, you can still get 100% for the course. In other words, bonus points can only help you. Bonus points are extra credit. Here’s how you can get them:
     <ol>
-      <li><strong>Pre-Lecture bonus points</strong> (34.5 bonus points)<br />
-Each class there will be a short pre-lecture video posted on Lon Capa followed by a few questions. The pre-lectures are designed to give you a preview of the basic concepts you’ll see in the actual lectures. There are 23 prelectures and each is worth 1.5 bonus points.</li>
-      <li><strong>Lon Capa Surveys</strong> (15 bonus points)<br />
-There will be 5 surveys due on the first Friday of each month (see the course calendar). Each survey is worth 3 bonus points. The surveys are all anonymous. Lon Capa just records whether or not you submitted a survey, not who submitted which answer. You must answer every question on the survey to get the 4 points.</li>
-      <li><b>The Pre-Lecture and Survey bonus points add to 49.5!</b>  Everyone will get 0.5 bonus points automatically for free <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">😉</a></li>
+      <li><strong>Pre-Lecture bonus points</strong> (46 bonus points)<br />
+Each class there will be a short pre-lecture video posted on Lon Capa followed by a few questions. The pre-lectures are designed to give you a preview of the basic concepts you’ll see in the actual lectures.  There are 23 prelectures and each is worth 2 bonus points.</li>
+      <li><strong>Lon Capa Surveys</strong> (25 bonus points)<br />
+There will be 5 surveys due on the first Friday of each month (see the course calendar). Each survey is worth 5 bonus points. The surveys are all anonymous. Lon Capa just records whether or not you submitted a survey, not who submitted which answer. You must answer every question on the survey to get the 5 points.</li>
+      <li><strong>Research Opportunities</strong> (28 bonus points)<br />
+There will be a few research opportunities to participate in throughout the semester.  The details will be posted on our course Compass page!  These opportunities are completely optional, but give those who want to a chance to participate in a real study.</li>
+      <li><strong>The bonus points add to 99!</strong>  Everyone will get 1 bonus point automatically for free. <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">😉</a></li>
     </ol>
   </li>
-  <li><b>How do these bonus points get calculated into your grade?</b>  At the end of the semester, take your total bonus points and divide them by 10.  This will be how many percentage points get added to your grade!  For example, if you have all 50 bonus points, you’d take 50 and divide it by 10 to get 5.  So if you have an 80% (B-) in the class, the bonus would bring you up to an 85% (B).</li>
+  <li><strong>How do these bonus points get calculated into your grade?</strong>  At the end of the semester, take your total bonus points and divide them by 20.  This will be how many percentage points get added to your grade!  For example, if you have all 100 bonus points, you’d take 100 and divide it by 20 to get 5.  So if you have an 80% (B-) in the class, the bonus would bring you up to an 85% (B).</li>
 </ul>
 
 <h2 id="course-outline">Course Outline</h2>
@@ -180,18 +183,18 @@ All homework and bonus work is submitted and graded immediately on Lon Capa.</li
 <h2 id="compass-site">Compass Site</h2>
 <ul>
   <li><b><a href="https://compass2g.illinois.edu" target="\_blank">https://compass2g.illinois.edu</a></b><br />
-We’re using Compass 2g to post announcements and display grades.<br />
+We’re using Compass 2g to post announcements, lecture videos, and display grades. Exams will also be taken on Compass.<br />
 (Lon Capa’s gradebook is too confusing, so check your grades on Compass.)</li>
 </ul>
 
 <h2 id="academic-integrity">Academic Integrity</h2>
 <ul>
-  <li>If you cheat on an exam in this class you’re very likely to get caught and the consequences will be <b>SEVERE</b>. See the <b><a href="https://studentcode.illinois.edu/" target="\_blank">University Student Code of Conduct</a></b>.</li>
-  <li>We have multiple versions of all exams that may look identical at first glance, but are not. Bottom line is, please don’t cheat. It’s not worth risking your entire college career and you will get caught. If you are caught, you will get a 0 on the exam and be reported to the university.</li>
+  <li>If you cheat on an exam or attempt to cheat on an exam in this class you’re very likely to get caught and the consequences will be <b>SEVERE</b>. See the <b><a href="https://studentcode.illinois.edu/" target="\_blank">University Student Code of Conduct</a></b>.</li>
+  <li>You are not allowed to work with other people on exams and you are not allowed to use cheating websites like Chegg.  We have multiple versions of all exams that may look identical at first glance, but are not. Bottom line is, please don’t cheat. It’s not worth risking your entire college career and you will get caught. If you are caught, you will get a 0 on the exam and be reported to the university.</li>
 </ul>
 
 <h2 id="dres-accommodations">DRES Accommodations</h2>
 <ul>
-  <li>I am happy to offer accommodations for disabilities verified through DRES (<b><a href="http://www.disability.illinois.edu/" target="\_blank">http://www.disability.illinois.edu/</a></b>). Please email me a copy of your letter during week 1. Since all of our exams will be online, I will provide the extra time accommodation for any student who needs it and sends me their DRES letter.  If you have any other questions or need any other accommodations, don’t hesitate to reach out <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">😊</a></li>
+  <li>I am happy to offer accommodations for disabilities verified through DRES (<b><a href="http://www.disability.illinois.edu/" target="\_blank">http://www.disability.illinois.edu/</a></b>). Please email me a copy of your letter during Week 1. Since all of our exams will be online, I will provide the extra time accommodation for any student who needs it and sends me their DRES letter.  If you have any other questions or need any other accommodations, don’t hesitate to reach out. <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">😊</a></li>
 </ul>
 :ET

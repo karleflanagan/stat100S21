@@ -7,7 +7,9 @@ layout: default
 ---
 
 <!-- landing photo page -->
-{% include landing.html %}
+{% include landing.html image='/assets/img/stat100desk.jpg' %}
+
+/assets/img/stat100desk.jpg
 
 <!-- Start of Sections Section -->
 <div id="sections" class="offset" style="margin-top:5px;">
