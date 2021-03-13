@@ -18,15 +18,12 @@ layout: default
       <div class="row text-center">
 
         <div class="col-xl-12 col-sm-12 mb-1">
-          <div class="staff-card bg-white rounded shadow-sm py-2 px-0"><a href="{{ site.data.info.rickroll }}"><img src="{{ site.baseurl }}/assets/img/staff-photos/stat100_impact_website.png" onerror="this.src='{{ site.baseurl }}/assets/img/staff-photos/blank_profile.png';" class="img-fluid mb-2 img-thumbnail shadow-sm" style="width=100%;"></a>
+          <div class="staff-card bg-white rounded shadow-sm py-2 px-0">
+            <a href="{{ site.data.info.rickroll }}">
+              <img src="{{ site.baseurl }}/assets/img/staff-photos/stat100_impact_final1.png" class="img-fluid mb-2 img-thumbnail shadow-sm" style="width=100%;">
+            </a>
             <h5 class="mb-0">Meet the STAT 100 Team!:)</h5>
-            <h6 class="mb-0">LAS Impact nominees</h6>
-            <!-- <div class="feature">
-              <button type="button" class="btn" data-toggle="collapse" data-target=""><i class="fas fa-chevron-circle-down fa-2x"></i></button>
-              <div id="" class="collapse">
-                <p style="padding-top: 2em;"></p>
-              </div>
-            </div> -->
+            <h6 class="mb-0">Come meet us at STAT 100 <a href="{{ site.data.info.office-hours.link }}">Zoom</a> Office Hours!:)</h6>
           </div>
         </div>
 
