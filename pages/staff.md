@@ -29,10 +29,10 @@ layout: default
           <h5 class="mb-0">Meet the STAT 100 Team!:)</h5>
           <h6 class="mb-0">LAS Impact nominees</h6>
           <div class="feature">
-            <!-- <button type="button" class="btn" data-toggle="collapse" data-target="#{{ Operson.netid }}"><i class="fas fa-chevron-circle-down fa-2x"></i></button> -->
-            <!-- <div id="{{ Operson.netid }}" class="collapse">
-              <p style="padding-top: 2em;">{{ Operson.bio }}</p>
-            </div> -->
+            <button type="button" class="btn" data-toggle="collapse" data-target=""><i class="fas fa-chevron-circle-down fa-2x"></i></button>
+            <div id="" class="collapse">
+              <p style="padding-top: 2em;"></p>
+            </div>
           </div>
         </div>
       </div>
