@@ -2,23 +2,19 @@
 {% for person in site.data.staff.staff %}
   {% assign personName = person.name %}
   {% assign twoNames = personName | split: ' ' %}
-  {% assign firstName = twoNames[0] %}
-  {% assign lastName = twoNames[1] %}
-  {% assign teamNamesL = teamNames | append: '_' | append: lastName %}
-  {% assign teamNamesF = teamNames | append: '_' | append: firstName %}
+  {% assign lastName = twoNames[0] %}
+  {% assign teamNames = teamNames | append: '_' | append: lastName %}
 {% endfor %}
 
-{% assign teamArrayL = teamNamesL | split: '_' %}
-{% assign teamArrayF = teamNamesF | split: '_' %}
-{% assign teamSortedL = teamArrayL | sort %}
-{% assign teamSortedF = teamArrayF | sort %}
+{% assign teamArray = teamNames | split: '_' %}
+{% assign teamSorted = teamArray | sort %}
 
-{% for name in teamSortedF %}
+{% for name in teamSorted %}
   {% for Operson in site.data.staff.staff %}
     {% assign OpersonName = Operson.name %}
     {% assign OtwoNames = OpersonName | split: ' ' %}
-    {% assign OfirstName = OtwoNames[0] %}
-    {% if OfirstName == name %}
+    {% assign OlastName = OtwoNames[1] %}
+    {% if OlastName == name %}
       {% if Operson.role == include.role %}
         {% if Operson.seniority == include.seniority %}
           <div class="col-xl-3 col-sm-6 mb-5">
