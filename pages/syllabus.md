@@ -61,7 +61,7 @@ title: syllabus
 
 ## Homework Schedule
 * Homework is due {{ site.data.info.hw-duedates }} (see <b><a href="{{ site.baseurl }}/pages/calendar.html">calendar</a></b>) on <b><a href="http://www.lon-capa.illinois.edu/" target="\_blank">Lon-Capa</a></b>. You can ask questions on the Lon Capa discussion boards and stop by office hours any time to get homework help!
-* <b style="color:red;">We do NOT accept late hw, but we do drop your 3 lowest HW scores. This means you can miss 3 HW assignments without any penalty!</b>
+* <b style="color:red;">We do NOT accept late hw, but we do drop your 4 lowest HW scores. This means you can miss 4 HW assignments without any penalty!</b>
 
 ## Exam Schedule
 * There will be 3 evening exams and a cumulative final. See the <b><a href="{{ site.baseurl }}/pages/exam_schedule.html">Exam Schedule</a></b> for dates, times, and locations.
