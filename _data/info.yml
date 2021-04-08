@@ -117,7 +117,7 @@ exams:
   time: "6-7:30pm"
   content: "Chapters 13-19"
   locations: ""
-  show-exams: FF
+  show-exams: T
   # exam-years:
   first: "S19" # Most recent semester
   full1: "Spring 2019"
