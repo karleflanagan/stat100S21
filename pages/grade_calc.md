@@ -7,4 +7,4 @@ title: grade-calculator
 ---
 
 
-<iframe src="https://www.wolframcloud.com/obj/6be2b994-09c8-4598-b2c2-cffc685e7a3c?_embed=iframe" width="600" height="800"></iframe>
+<iframe src="https://www.wolframcloud.com/obj/stevef/Stat100GradeCalculator.html?_embed=iframe" width="600" height="800"></iframe>
