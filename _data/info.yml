@@ -130,7 +130,7 @@ exams:
   full4: "Fall 2019"
   conflict: "<i>same day from 4:30-6:00pm</i><br>Location for All Last Names and Sections: TBA<br>"
 
-show-finals: FF
+show-finals: T
 
 # # This is for code that builds the practice exams tables.
 # exam-years:
