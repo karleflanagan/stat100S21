@@ -3,18 +3,11 @@
 
 # Weekly Announcements
 announcements: >-
-  <h2>Weekly Announcements</h2>
+  <h2>Go to our new Fall 2021 site!</h2>
   <div class="sub-heading-underline" style="margin:0 auto 5px auto; width: 24%;"></div>
   <p style="text-align:left;">
   <ul>
-    <li>Hello Everyone!</li>
-    <ul>
-      <li>Exam 3 scores are posted in Compass!</li>
-      <li>Check out the <a href="https://karleflanagan.github.io/stat100S21/pages/grade_calc.html">grade calculator</a> to see what you need to get on the final to get your desired grade in the class!</li>
-      <li>Office hours are this week Monday-Friday from 2-5pm and Tuesday from 8-10pm via <a href="https://illinois.zoom.us/j/93223625206?pwd=MHhPbTNvelV6ZG1YVUJMVVFHdTU2UT09" target="_blank">zoom</a>. Stop by if you have any questions <a href="https://www.youtube.com/watch?v=wpV-gGA4PSk">&#128522;</a></li>
-      <li>Also, remember that we drop your 4 lowest HW grades at the end of the semester so you can miss 4 full HW assignments without any penalty!</li>
-      <li>Have a great week!</li>
-    </ul>
+    <li><a href="https://karleflanagan.github.io/stat100F21/" traget="_blank">Stat 100 Fall 2021</a></li>
   </ul>
   </p>
 
@@ -74,7 +67,7 @@ exams:
   time: "6-7:30pm"
   content: "Chapter 1-Chapter 6 Part 1"
   locations: ""
-  show-exams: T
+  show-exams: FF
   # exam-years:
   first: "F19" # Most recent semester
   full1: "Fall 2019"
@@ -96,7 +89,7 @@ exams:
   time: "6-7:30pm"
   content: "Chapter 6-Chapter 12"
   locations: ""
-  show-exams: T
+  show-exams: FF
   # exam-years:
   first: "F19" # Most recent semester
   full1: "Fall 2019"
@@ -118,7 +111,7 @@ exams:
   time: "6-7:30pm"
   content: "Chapters 13-19"
   locations: ""
-  show-exams: T
+  show-exams: FF
   # exam-years:
   first: "S19" # Most recent semester
   full1: "Spring 2019"
@@ -130,7 +123,7 @@ exams:
   full4: "Fall 2019"
   conflict: "<i>same day from 4:30-6:00pm</i><br>Location for All Last Names and Sections: TBA<br>"
 
-show-finals: T
+show-finals: FF
 
 # # This is for code that builds the practice exams tables.
 # exam-years:
